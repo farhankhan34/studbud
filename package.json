@@ -1,0 +1,25 @@
+{
+  "name": "studbud",
+  "version": "1.0.0",
+  "description": "studbud project portfolio peice",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farhankhan34/studbud.git"
+  },
+  "keywords": [
+    "study",
+    "deco2017",
+    "design",
+    "kanban"
+  ],
+  "author": "Farhan Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farhankhan34/studbud/issues"
+  },
+  "homepage": "https://github.com/farhankhan34/studbud#readme"
+}
